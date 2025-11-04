@@ -1,4 +1,3 @@
-````markdown name=README.md url=https://github.com/RanRhoads84/Auto-Video-Encoder/blob/main/README.md
 # Auto Video Encoder
 
 Auto Video Encoder is a small collection of tools and scripts for automated video encoding on Linux. The repository contains a focused subproject (linux-video-encoder) that implements the encoder application, configuration, and helper scripts.
@@ -67,6 +66,3 @@ If you want to contribute:
 
 For use, installation commands, exact configuration keys, and examples, see the subproject README:
 - linux-video-encoder/README.md
-
-If you want, I can generate or update a more detailed top-level README that includes step-by-step installation instructions (apt/ffmpeg prerequisites, virtualenv/poetry commands), example config snippets from linux-video-encoder/config.json, and example commands to run the encoder. Tell me which sections you'd like expanded.
-````
